@@ -26,6 +26,5 @@ npm run build
 📬 Contact
 
 Karthik Ramesh
-Email: your-email@example.com
-
+Email: karathikramesh@gmail.com
 Portfolio: https://portfolio.karthikramesh.co
