@@ -13,6 +13,7 @@ This is my personal portfolio website built using **React**, **TailwindCSS**, an
 - React.js
 - TailwindCSS
 - JavaScript
+- DatoCMS (Content Management)
 - AWS S3 (hosting)
 - AWS CloudFront (CDN + HTTPS)
 - GitHub Actions (deployment automation)
